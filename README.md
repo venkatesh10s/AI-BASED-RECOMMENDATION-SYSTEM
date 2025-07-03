@@ -64,3 +64,5 @@ java -cp out Main
 Enter a user ID (e.g. 1–5) to get book recommendations.
 
 ## Screenshots
+
+![Image](https://github.com/user-attachments/assets/bc588226-5460-46b8-b501-5d1774909afa)
